@@ -52,3 +52,7 @@ function saludar(){
     alert("hola mundo")
 }//creando el botton directamente en el html
 
+function sumar(a, b){
+    return a + b
+}
+
